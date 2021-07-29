@@ -30,7 +30,7 @@
                 "STL",
                 "PNG"
             ],
-			"size" : 10.75,
+			"size" : 10.38,
 		        "unit" : {
             			"value": "GB"
 		        },
@@ -124,7 +124,7 @@
 			"category": "files",
 			"values": [
 				{
-					"value": "15100"
+					"value": "15002"
 				}
 			]
 		},
